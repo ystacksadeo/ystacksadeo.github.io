@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ystacksadeo.github.io/sitemap.html
+Sitemap: https://ystacksadeo.github.io/app/sitemap.html
+Sitemap: https://ystacksadeo.github.io/assets/sitemap.html
+Sitemap: https://ystacksadeo.github.io/css/sitemap.html
+Sitemap: https://ystacksadeo.github.io/includes/sitemap.html
+Sitemap: https://ystacksadeo.github.io/item/sitemap.html
+Sitemap: https://ystacksadeo.github.io/src/sitemap.html
